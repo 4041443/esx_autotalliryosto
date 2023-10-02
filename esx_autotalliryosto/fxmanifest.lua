@@ -1,6 +1,6 @@
 fx_version 'adamant'
 game 'gta5'
-author '1443 paster'
+author '1443'
 description 'autotallirosto'
 version '1.0.3'
 
