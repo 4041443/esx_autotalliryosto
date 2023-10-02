@@ -1,2 +1,2 @@
 # esx_autotalliryosto
-Jogu autotalliryöstö credits to orggis
+Perus Autotalliryöstö ESXlle 
